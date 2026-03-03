@@ -7,7 +7,7 @@ endogenous lags (diffs):  3
 exogenous lags:           0 
 sample range:             [1973 Q2, 1998 Q4], T = 103
 estimation procedure:     One stage. Johansen approach 
-
+konf
 dwwd
 Lagged endogenous term:
 =======================
@@ -159,5 +159,6 @@ Deterministic term:
         |   {0.000}   {0.000} 
         |   [0.000]   [0.000] 
 -----------------------------
+
 
 
